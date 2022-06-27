@@ -1,0 +1,21 @@
+body {
+  background: #eff4f7;
+  color: #000000e6;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.sec{
+  margin-top: 10px;
+  padding: 25px;
+  /* background: #ffffff; */
+  background: #f7fcff;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px 0 #01579b33;
+  
+  /* box-shadow: 0 0 128px rgba(0, 0, 0, 0.1),
+                     0 32px 64px -48px rgba(0, 0, 0, 0.5); */
+}
